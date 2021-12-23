@@ -1,0 +1,1 @@
+{"mappings":"AAEA,OACE,SCDF","sources":["src/scss/style.scss","%3Cinput%20css%20CxldzT%3E"],"sourcesContent":["$primaryColor: red;\n\nheader {\n  color: $primaryColor\n}\n\n\n\n","header {\n  color: red;\n}\n/*# sourceMappingURL=index.d313a1fc.css.map */\n"],"names":[],"version":3,"file":"index.d313a1fc.css.map"}
