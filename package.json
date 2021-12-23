@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "dev": "npx parcel src/index.html",
+    "prod": "npx parcel build src/index.html"
+  },
   "dependencies": {
     "sass": "^1.45.1"
   },
