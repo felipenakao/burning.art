@@ -1,0 +1,1 @@
+{"mappings":"AAEA;EACE,OAHa","sources":["src/scss/style.scss"],"sourcesContent":["$primaryColor: blue;\n\nheader {\n  color: $primaryColor\n}\n\n\n\n"],"names":[],"version":3,"file":"index.c63bad94.css.map","sourceRoot":"/__parcel_source_root/"}
