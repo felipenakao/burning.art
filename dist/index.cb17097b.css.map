@@ -1,1 +1,0 @@
-{"mappings":"AAEA,OACE,UCDF","sources":["src/scss/style.scss","%3Cinput%20css%206EWjCC%3E"],"sourcesContent":["$primaryColor: blue;\n\nheader {\n  color: $primaryColor\n}\n\n\n\n","header {\n  color: blue;\n}\n/*# sourceMappingURL=index.cb17097b.css.map */\n"],"names":[],"version":3,"file":"index.cb17097b.css.map"}
